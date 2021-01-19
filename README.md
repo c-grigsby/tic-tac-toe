@@ -1,6 +1,6 @@
 # TicTacToe
 
-This projects aims to provide a program enables the user/s to play a game of TicTacToe.
+This projects aims to provide a program that enables the user/s to play a game of TicTacToe.
 
 ## Initial Objective 
 
